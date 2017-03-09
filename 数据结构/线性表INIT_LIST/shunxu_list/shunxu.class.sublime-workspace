@@ -1,0 +1,532 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"IC",
+				"ICanPee"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"article",
+				"article.search.php"
+			],
+			[
+				"art",
+				"article.search.php"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_all"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"mysql_fet",
+				"mysql_fetch_object"
+			],
+			[
+				"mysql_ft",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_row"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"mysql_",
+				"mysql_connect"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"xhpar",
+				"xhpart1_box"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"xhtitle",
+				"xhtitle_box"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"part",
+				"part2"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"qe",
+				"question_9"
+			],
+			[
+				"q",
+				"question"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"k",
+				"know_box"
+			],
+			[
+				"part1",
+				"part1_02_l_l"
+			],
+			[
+				"lead",
+				"leader_box"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"d_",
+				"d_right"
+			],
+			[
+				"y_",
+				"y_mid"
+			],
+			[
+				"y",
+				"y_left"
+			],
+			[
+				"s_",
+				"s_right_sub"
+			],
+			[
+				"le",
+				"lead_box9"
+			],
+			[
+				"nav",
+				"nav_box4"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"par",
+				"part_box_up_6"
+			],
+			[
+				"big_",
+				"big_title_box"
+			],
+			[
+				"part06",
+				"part06_box4"
+			],
+			[
+				"part05",
+				"part05_box_l"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"js",
+				"jsbox_js"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"ur",
+				"url()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 594.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Demo/test02/INIT_LIST/shunxu_list/shunxu.test.php",
+		"/E/Demo/test02/INIT_LIST/shunxu_list/shunxu.class.php",
+		"/E/Demo/test02/INIT_LIST/linked_list/linked.class.php",
+		"/E/Demo/test02/INIT_LIST/linked_list/linked.test.php",
+		"/C/Users/Administrator/Desktop/xhmainword.txt",
+		"/E/Demo/test02/INIT_LIST/shunxu_list/shunxu.class..php",
+		"/E/Demo/test02/LIFO/mystack.class.php",
+		"/E/Demo/test02/LIFO/mystack.test.php",
+		"/E/Demo/test01/lots.class.php",
+		"/E/Demo/test02/FIFO/queue.test.php",
+		"/E/Demo/test02/FIFO/queue.class.php",
+		"/E/Demo/test02/mystack.class.php",
+		"/E/Demo/test02/mystack.php",
+		"/E/Demo/test01/contorl.class.php",
+		"/C/Users/Administrator/Desktop/数据结构/a.html",
+		"/C/Users/Administrator/Desktop/xh建站/html+css+js自我学习/js学习/lean.html",
+		"/C/Users/Administrator/Desktop/a.html",
+		"/C/Users/Administrator/Desktop/a.js",
+		"/C/Users/Administrator/Desktop/fuck/tem/head.htm",
+		"/C/Users/Administrator/Desktop/fuck/tem/index.htm",
+		"/C/Users/Administrator/Desktop/4zt/zhuanti/wnsxz_x/index.html",
+		"/C/Users/Administrator/Desktop/4zt/zhuanti/wenxiu_x/index.html",
+		"/C/Users/Administrator/Desktop/4zt/zhuanti/shoulianzhen_x/index.html",
+		"/C/Users/Administrator/Desktop/4zt/zhuanti/wnsxz_x/wnsxz.html",
+		"/C/Users/Administrator/Desktop/4zt/zhuanti/shoulianzhen_x/shoulianzhen.html",
+		"/C/Users/Administrator/Desktop/4zt/zhuanti/huaerzitm_x/huaerzitm.html",
+		"/C/Users/Administrator/Desktop/wenxiu_x/index.html",
+		"/C/Users/Administrator/Desktop/index.htm",
+		"/C/Users/Administrator/Desktop/head.htm",
+		"/C/Users/Administrator/Desktop/header.htm",
+		"/C/Users/Administrator/Desktop/sb.c",
+		"/C/Users/Administrator/Desktop/sb",
+		"/C/Users/Administrator/Desktop/每日缓存/2016.12.22/www.dysgzxyy.com/tem/index.htm",
+		"/C/Users/Administrator/Desktop/每日缓存/2016.12.22/www.dysgzxyy.com/tem/article_article.htm",
+		"/C/Users/Administrator/Desktop/每日缓存/2016.12.22/www.dysgzxyy.com/tem/bottom_zx_pp.htm",
+		"/C/Users/Administrator/Desktop/rightpart.js",
+		"/C/Users/Administrator/Desktop/rightsuit.php",
+		"/C/Users/Administrator/Desktop/njhdkeyword.txt",
+		"/E/Demo/test02/cookietest.php",
+		"/C/Users/Administrator/Desktop/shenvlx/dgfx.html",
+		"/E/Demo/test02/regexTool.class.php",
+		"/E/Demo/test02/regCheck.php",
+		"/C/Users/Administrator/Desktop/ddddd.txt",
+		"/E/Demo/test02/reg.html",
+		"/C/Users/Administrator/Desktop/imooc/5530b9db00017b9300000000/regex/regexTool.class.php",
+		"/C/Users/Administrator/Desktop/imooc/5530b9db00017b9300000000/regex/reg.html",
+		"/C/Users/Administrator/Desktop/imooc/5530b9db00017b9300000000/regex/regCheck.php",
+		"/C/Users/Administrator/Desktop/index.html",
+		"/E/Demo/test02/checknews.class.php",
+		"/E/Demo/test02/preg.php",
+		"/C/Users/Administrator/Desktop/tsfw.htm",
+		"/C/Users/Administrator/Desktop/left.htm",
+		"/C/Users/Administrator/Desktop/list_article_about.htm",
+		"/E/Demo/test02/t1.php",
+		"/C/Users/Administrator/Desktop/每日缓存/2016.12.12/www.hxxhyy.cn/footer.htm",
+		"/C/Users/Administrator/Desktop/jjxx/太仓华山妇科/hskeyword.txt",
+		"/C/Users/Administrator/Desktop/jjxx/newbbbT.lua",
+		"/C/Users/Administrator/Desktop/hmkeyword.txt",
+		"/C/Users/Administrator/Desktop/abc.txt",
+		"/E/Demo/test01/selloff.php",
+		"/E/Demo/test01/chouxiang.class.php",
+		"/E/Demo/test01/jiekou.class.php",
+		"/E/Demo/test01/final.class.php",
+		"/E/Demo/test01/magcall.class.php",
+		"/E/Demo/test01/magclone.class.php",
+		"/E/Demo/test01/magclass.class.php",
+		"/E/Demo/test01/magIUset.class.php",
+		"/E/Demo/test01/mag.class.php",
+		"/E/Demo/test01/mag2.class.php",
+		"/E/Demo/test01/mag1.class.php",
+		"/C/Users/Administrator/Desktop/testbank.txt",
+		"/C/Users/Administrator/Desktop/jjxx/hmkeyword.txt",
+		"/C/Users/Administrator/Desktop/jjdj/hmkeyword.txt",
+		"/E/Demo/test01/test03.class.php",
+		"/E/Demo/test01/test02.class.php",
+		"/E/Demo/test01/test.class.php",
+		"/C/Users/Administrator/Desktop/imooc/mysqli/imoocComment/comment.class.php",
+		"/C/Users/Administrator/Desktop/abbcd/banner.htm",
+		"/C/Users/Administrator/Desktop/abbcd/zhuanjia.htm",
+		"/C/Users/Administrator/Desktop/abbcd/yanbuanli.htm",
+		"/C/Users/Administrator/Desktop/abbcd/yanbu.htm",
+		"/C/Users/Administrator/Desktop/abbcd/xizhianli.htm",
+		"/C/Users/Administrator/Desktop/abbcd/xizhi.htm",
+		"/C/Users/Administrator/Desktop/abbcd/xiongbuzhengxing.htm",
+		"/C/Users/Administrator/Desktop/abbcd/xiongbuanli.htm",
+		"/C/Users/Administrator/Desktop/abbcd/VIPzhuyi_wenzhang.htm",
+		"/C/Users/Administrator/Desktop/abbcd/VIPzhuyi.htm",
+		"/C/Users/Administrator/Desktop/abbcd/vip_hyqy.htm",
+		"/C/Users/Administrator/Desktop/abbcd/vip_hyk.htm",
+		"/C/Users/Administrator/Desktop/abbcd/vip_hyhk.htm",
+		"/C/Users/Administrator/Desktop/abbcd/top_index.htm",
+		"/C/Users/Administrator/Desktop/abbcd/top.htm",
+		"/C/Users/Administrator/Desktop/abbcd/symptom.htm",
+		"/C/Users/Administrator/Desktop/abbcd/simi.htm",
+		"/C/Users/Administrator/Desktop/abbcd/service.htm",
+		"/C/Users/Administrator/Desktop/abbcd/route.htm",
+		"/C/Users/Administrator/Desktop/abbcd/right_zx_xm.htm",
+		"/C/Users/Administrator/Desktop/abbcd/qudoumeibaianli.htm",
+		"/C/Users/Administrator/Desktop/abbcd/qubanquzhianli.htm",
+		"/C/Users/Administrator/Desktop/abbcd/project.htm",
+		"/C/Users/Administrator/Desktop/abbcd/pifuxiufuanli.htm",
+		"/C/Users/Administrator/Desktop/abbcd/mianbuanli.htm",
+		"/C/Users/Administrator/Desktop/abbcd/mianbu.htm",
+		"/C/Users/Administrator/Desktop/abbcd/meibainenfuanli.htm",
+		"/C/Users/Administrator/Desktop/abbcd/list_article_xm1.htm",
+		"/C/Users/Administrator/Desktop/abbcd/list_article_xm.htm",
+		"/C/Users/Administrator/Desktop/abbcd/list_article_hssyp.htm",
+		"/C/Users/Administrator/Desktop/abbcd/list_article.htm",
+		"/C/Users/Administrator/Desktop/abbcd/left_zx_default1.htm",
+		"/C/Users/Administrator/Desktop/abbcd/left_zx_default.htm",
+		"/C/Users/Administrator/Desktop/abbcd/jinfutishenganli.htm",
+		"/C/Users/Administrator/Desktop/abbcd/indexbf.htm",
+		"/C/Users/Administrator/Desktop/abbcd/index001.htm",
+		"/C/Users/Administrator/Desktop/abbcd/index_article_anli.htm",
+		"/C/Users/Administrator/Desktop/abbcd/index_article.htm",
+		"/C/Users/Administrator/Desktop/abbcd/index.htm",
+		"/C/Users/Administrator/Desktop/abbcd/history.htm",
+		"/C/Users/Administrator/Desktop/abbcd/head_zx.htm",
+		"/C/Users/Administrator/Desktop/abbcd/foot_index.htm",
+		"/C/Users/Administrator/Desktop/abbcd/foot.htm",
+		"/C/Users/Administrator/Desktop/abbcd/fengxiong.htm",
+		"/C/Users/Administrator/Desktop/abbcd/equipment.htm",
+		"/C/Users/Administrator/Desktop/abbcd/environment.htm",
+		"/C/Users/Administrator/Desktop/abbcd/chunbuanli.htm",
+		"/C/Users/Administrator/Desktop/abbcd/bottom_zx_pp.htm",
+		"/C/Users/Administrator/Desktop/abbcd/bingdiantuomaoanli.htm",
+		"/C/Users/Administrator/Desktop/abbcd/bibuanli.htm",
+		"/C/Users/Administrator/Desktop/abbcd/bibu.htm"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"banner_nav",
+			"nav_sec_item_li",
+			"introduce",
+			"clearfloat",
+			"zsal",
+			"clearfloat",
+			"不孕不育",
+			":\".$",
+			"/newstyle/",
+			"880px",
+			"hgroup",
+			"buton_type",
+			"专家",
+			"bottom",
+			"句容同济",
+			"句容同济医院",
+			"hospital",
+			"<a href=\"/swt/\"><img src=\"images/btn_02.png\" width=\"30%\">",
+			"<img src=\"images/btn_01.png\" width=\"25%\">",
+			"96",
+			"rgb",
+			"2",
+			"0",
+			"images/part4_man.png"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "shunxu.class.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
