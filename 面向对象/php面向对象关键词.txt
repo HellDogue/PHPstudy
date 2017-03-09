@@ -1,0 +1,13 @@
+php面向对象要点:
+
+$abc = "";   //打造个变量看看
+
+类：class   继承：extends  调用静态的父类值或方法使用parent::$name | parent::getname()
+类中伪变量：$this->abc 
+访问控制:public protected prictive  
+static(静态)关键字:static   tip:需要被使用时:1.self::$abc   2.static::$abc
+final关键字：final   tip:不能被子类继承，用在方法前时不能改写
+数据访问补充:self static 
+接口:interface   继承:impement
+多态:一个接口有多个实现方法
+抽象类:abstract class  继承：extends  tip:介于接口和类之间，一部分被实现/一部分没有被实现
